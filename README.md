@@ -1,7 +1,7 @@
 # WallChanger (only for Windows)
 
 ## About
-Simple and easy2use app to change your wallpaper on CMD. GUI verion comming soon!
+Simple and easy2use app to change your wallpaper on CMD. GUI version comming soon!
 
 ## How to install and use
 
